@@ -11,7 +11,7 @@ Automate Your Release Notes in 3-Clicks @ [NextRelease.io](https://www.nextrelea
 
 
 # Examples Notes #
-## Release 1.11.0
+## Release 0.1.0
 #### Enhancements 
 - Enhanced Dashboard Filtering [#156](https://github.com/nextreleaseio/frontend/pull/156) ( [donaldwasserman](https://github.com/donaldwasserman) )
 

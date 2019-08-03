@@ -11,7 +11,7 @@ Automate Your Release Notes in 3-Clicks @ [NextRelease.io](https://www.nextrelea
 
 
 # Examples Notes #
-## Release 0.11.0
+## Release 1.11.0
 #### Enhancements 
 - Enhanced Dashboard Filtering [#156](https://github.com/nextreleaseio/frontend/pull/156) ( [donaldwasserman](https://github.com/donaldwasserman) )
 
@@ -19,7 +19,6 @@ Automate Your Release Notes in 3-Clicks @ [NextRelease.io](https://www.nextrelea
 - Resolved billing [#155](https://github.com/nextreleaseio/frontend/pull/155) ( [donaldwasserman](https://github.com/donaldwasserman) )
 - Responsive Styling Fixes [#154](https://github.com/nextreleaseio/frontend/pull/154) ( [donaldwasserman](https://github.com/donaldwasserman) )
 - Changed filtering to modified date [#152](https://github.com/nextreleaseio/frontend/pull/152) ( [donaldwasserman](https://github.com/donaldwasserman) )
-
 
 # Other Examples
 * [GitHub Automatic PR Release Note Integration](https://github.com/nextreleaseio/example-branch-per-environment/pull/5)

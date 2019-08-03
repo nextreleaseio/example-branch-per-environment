@@ -7,12 +7,11 @@ validated and shipped out to an environment mirroring production where the team
 can manually test fixes and new features prior to deploying them out to 
 production.
 
-
 Automate Your Release Notes in 3-Clicks @ [NextRelease.io](https://www.nextrelease.io)
 
 
 
-# Example Notes #
+# Examples Notes #
 ## Release 0.11.0
 #### Enhancements 
 - Enhanced Dashboard Filtering [#156](https://github.com/nextreleaseio/frontend/pull/156) ( [donaldwasserman](https://github.com/donaldwasserman) )
